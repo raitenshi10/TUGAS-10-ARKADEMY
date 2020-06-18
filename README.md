@@ -1,3 +1,3 @@
 # TUGAS-10-ARKADEMY
 
-![alt text](Screenshoot (1).png)
+![alt text](https://github.com/ryunoesuke/TUGAS-10-ARKADEMY/blob/master/Screenshot%20(1).png?raw=true)
