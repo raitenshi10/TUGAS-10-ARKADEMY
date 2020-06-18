@@ -21,7 +21,7 @@ def Index():
     cur.execute("SELECT  * FROM produk")
     data = cur.fetchall()
     cur.close()
-    return render_template('index2.html', students=data )
+    return render_template('index2.html', produk=data )
 
 
 
